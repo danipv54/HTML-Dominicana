@@ -1,6 +1,6 @@
 # HTML-Dominicana
 Aprender html desde cero 
-# Sublime text y Visual studio code 📌
+# HTML-Dominicana Workshop 📌
 
 
 ## Comenzando 🚀
