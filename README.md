@@ -12,7 +12,10 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-
+*Tener ganas de aprender en el mundo de la web
+* Ayudar a los demas
+* Marcar como favorito
+* Compatir con los demás
     
 
 ## Construido con 🛠️
@@ -28,12 +31,13 @@ Por favor lee el [CONTRIBUTING.md](https://chat.whatsapp.com/LB11ndWzFX28SQdfFQk
 
 ## Temas para aprender
 
+* [HTML Basico]()
 * [HTML Media]()
 * [HTML Graphics]()
 * [HTML APIs]()
-* [HTML Examples]()
-* [HTML References]()
-* [HTML Basics]()
+* [HTML Ejemplos]()
+* [HTML Rerencias]()
+
 
 
 
