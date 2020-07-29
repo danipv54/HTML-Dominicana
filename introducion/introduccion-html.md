@@ -152,7 +152,7 @@ en el navegador.
 
 
 ###   Etiquetas avanzada🖇️
-* [Click Aqui para ver las otros etiquetas](https://code.visualstudio.com/) - Descargar VS
+* [Click Aqui para ver las otros etiquetas]() `Proximamente`
 
 
 
