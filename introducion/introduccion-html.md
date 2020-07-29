@@ -68,7 +68,7 @@ Images, Enlaces, Listas, Parrafos,  Ect.
 * `<title>`: Es la que muestra el titulo de la pagina en la parte superior del navegador
 
 Como podemos ver en la siguente imagen:
- ![page's tab](Capture.png)
+ ![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture.PNG)
 
 
 
