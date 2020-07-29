@@ -116,7 +116,7 @@ Y como resultado tenemos estos:
 
 Como podemos ver ahi tenemos la etiquetas `<html>` que al inicio y al final
 La etiqueta `<head` que cubre  el titulo de la pagina que esta dentro de la etiqueta
-`<title>` dicha etiqueta es para un titulo,  mas abajo vemos la etiqueta `<body>`
+`<title>` dicha etiqueta es para un titulo,  más abajo vemos la etiqueta `<body>`
 como mencionamos anteriormente, esta contiene los elemento definidos en un 
 documento html, y ahi vemos la etiqueta `<p>` para parrafos y `<h1>` dentro de
 la etiqueta body.
@@ -124,7 +124,7 @@ la etiqueta body.
 
 # Bien vamos a crear una pagina basica con lo que ya sabemos!
 
-Puede hacerlo con el block de nota, si no tiene editor por ahora,
+Puede hacerlo con el bloc de nota, sí no tiene editor por ahora,
 pero les recomiendo Descargar [Visual studio code](https://code.visualstudio.com/) 
 
 Bien vamos a nuestro bloc de notas: `( a lo clasico)`
@@ -138,7 +138,7 @@ Creamos una estructura de esta manera:
 
 #### Paso 2
 
-Guardamos el archivo con la siguiente extencion `index.html` para que puede verse 
+Guardamos el archivo con la siguiente extencion `index.html` para que pueda verse 
 en el navegador.
 ![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master//basico-html/Capture6.PNG) 
 
@@ -152,7 +152,7 @@ en el navegador.
 
 
 ###   Etiquetas avanzada🖇️
-* [Click Aqui para ver las otros etiquetas](https://github.com/danipv54/HTML-Dominicana/blob/master/basico-html/Etiquetas-part1.md) 
+* [Click Aqui para ver las otras etiquetas](https://github.com/danipv54/HTML-Dominicana/blob/master/basico-html/Etiquetas-part1.md) 
 
 
 
