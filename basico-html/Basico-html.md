@@ -70,7 +70,7 @@ Images, Enlaces, Listas, Parrafos,  Ect.
 Como podemos ver en la siguente imagen:
 
 
- ![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture.PNG)
+ ![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master//basico-html/Capture.PNG)
 
 
 
@@ -86,12 +86,12 @@ Un tag no es más que: como se inicializa una etiqueta en HTML por ejemplos:
 Así abrimos una: 
 
 
-![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture1.PNG) 
+![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master//basico-html/Capture1.PNG) 
 
 Así cerramos  una: 
 
 
-![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture2.PNG) 
+![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master//basico-html/Capture2.PNG) 
 
 con el slash `/ ` para indicar el cierre de esta
 
@@ -99,7 +99,7 @@ Y como resultado tenemos estos:
 
 
 
-![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture3.PNG) 
+![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master//basico-html/Capture3.PNG) 
 
 
 
@@ -112,7 +112,7 @@ Y como resultado tenemos estos:
 
 ### Estructura de un pagina HTML🛠️
 
-![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture4.PNG) 
+![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master//basico-html/Capture4.PNG) 
 
 Como podemos ver ahi tenemos la etiquetas `<html>` que al inicio y al final
 La etiqueta `<head` que cubre  el titulo de la pagina que esta dentro de la etiqueta
@@ -131,7 +131,7 @@ Bien vamos a nuestro bloc de notas: `( a lo clasico)`
 
 #### Paso 1
 Creamos una estructura de esta manera:
-![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture5.PNG) 
+![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master//basico-html/Capture5.PNG) 
 
 
 
@@ -140,14 +140,14 @@ Creamos una estructura de esta manera:
 
 Guardamos el archivo con la siguiente extencion `index.html` para que puede verse 
 en el navegador.
-![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture6.PNG) 
+![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master//basico-html/Capture6.PNG) 
 
 #### Paso 3
 Buscamos donde guardamos el archivo que creamos, y le damos doble click para abrilo
 en el navegador. 
 
 
-![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture7.PNG) 
+![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master//basico-html/Capture7.PNG) 
 
 
 
