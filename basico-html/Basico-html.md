@@ -152,7 +152,7 @@ en el navegador.
 
 
 ###   Etiquetas avanzada🖇️
-* [Click Aqui para ver las otros etiquetas]() `Proximamente`
+* [Click Aqui para ver las otros etiquetas](https://github.com/danipv54/HTML-Dominicana/blob/master/basico-html/Etiquetas-part1.md) 
 
 
 
