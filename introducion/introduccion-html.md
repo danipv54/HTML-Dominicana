@@ -68,6 +68,8 @@ Images, Enlaces, Listas, Parrafos,  Ect.
 * `<title>`: Es la que muestra el titulo de la pagina en la parte superior del navegador
 
 Como podemos ver en la siguente imagen:
+
+
  ![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture.PNG)
 
 
@@ -82,6 +84,8 @@ Bien ya hemos visto los tag, pero no sabemos identificarlo a simple vista. Vamos
 Un tag no es más que: como se inicializa una etiqueta en HTML por ejemplos:
 
 Así abrimos una: 
+
+
 ![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture1.PNG) 
 
 Así cerramos  una: 
@@ -91,8 +95,14 @@ Así cerramos  una:
 
 con el slash `/ ` para indicar el cierre de esta
 
-Y como resultado tenemso estos:
+Y como resultado tenemos estos:
+
+
+
 ![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture3.PNG) 
+
+
+
 **Algunas etiquetas HTML cómo:** `<br>` no llevan cierre
 
 
@@ -134,7 +144,9 @@ en el navegador.
 
 #### Paso 3
 Buscamos donde guardamos el archivo que creamos, y le damos doble click para abrilo
-en el navegador, Y esto es lo que vamos a ver en el navegador.
+en el navegador. 
+
+
 ![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture7.PNG) 
 
 
