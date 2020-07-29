@@ -68,7 +68,9 @@ Images, Enlaces, Listas, Parrafos,  Ect.
 * `<title>`: Es la que muestra el titulo de la pagina en la parte superior del navegador
 
 Como podemos ver en la siguente imagen:
- ![page's tab](Capture.png)
+
+
+ ![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture.PNG)
 
 
 
@@ -82,17 +84,25 @@ Bien ya hemos visto los tag, pero no sabemos identificarlo a simple vista. Vamos
 Un tag no es más que: como se inicializa una etiqueta en HTML por ejemplos:
 
 Así abrimos una: 
-![page's tab](Capture1.png) 
+
+
+![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture1.PNG) 
 
 Así cerramos  una: 
 
 
-![page's tab](Capture2.png) 
+![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture2.PNG) 
 
 con el slash `/ ` para indicar el cierre de esta
 
-Y como resultado tenemso estos:
-![page's tab](Capture3.png) 
+Y como resultado tenemos estos:
+
+
+
+![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture3.PNG) 
+
+
+
 **Algunas etiquetas HTML cómo:** `<br>` no llevan cierre
 
 
@@ -102,7 +112,7 @@ Y como resultado tenemso estos:
 
 ### Estructura de un pagina HTML🛠️
 
-![page's tab](Capture4.png) 
+![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture4.PNG) 
 
 Como podemos ver ahi tenemos la etiquetas `<html>` que al inicio y al final
 La etiqueta `<head` que cubre  el titulo de la pagina que esta dentro de la etiqueta
@@ -121,7 +131,7 @@ Bien vamos a nuestro bloc de notas: `( a lo clasico)`
 
 #### Paso 1
 Creamos una estructura de esta manera:
-![page's tab](Capture5.png) 
+![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture5.PNG) 
 
 
 
@@ -130,18 +140,19 @@ Creamos una estructura de esta manera:
 
 Guardamos el archivo con la siguiente extencion `index.html` para que puede verse 
 en el navegador.
-![page's tab](Capture6.png) 
+![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture6.PNG) 
 
 #### Paso 3
 Buscamos donde guardamos el archivo que creamos, y le damos doble click para abrilo
-en el navegador, Y esto es lo que vamos a ver en el navegador.
-![page's tab](Capture7.png) 
+en el navegador. 
 
+
+![page's tab](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/Capture7.PNG) 
 
 
 
 ###   Etiquetas avanzada🖇️
-* [Click Aqui para ver las otros etiquetas](https://code.visualstudio.com/) - Descargar VS
+* [Click Aqui para ver las otros etiquetas]() `Proximamente`
 
 
 
@@ -151,12 +162,12 @@ en el navegador, Y esto es lo que vamos a ver en el navegador.
 
 ## Temas para aprender  🖇️
 
-* [HTML Basico]()
-* [HTML Media]()
-* [HTML Graphics]()
-* [HTML APIs]()
-* [HTML Ejemplos]()
-* [HTML Rerencias]()
+
+* [HTML Media]()`Proximamente`
+* [HTML Graphics]()`Proximamente`
+* [HTML APIs]()`Proximamente`
+* [HTML Ejemplos]()`Proximamente`
+* [HTML Rerencias]() `Proximamente`
 
 
 
