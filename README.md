@@ -31,7 +31,7 @@ Por favor lee el [CONTRIBUTING.md](https://chat.whatsapp.com/LB11ndWzFX28SQdfFQk
 
 ## Temas para aprender
 
-* [HTML Basico](https://github.com/danipv54/HTML-Dominicana/blob/master/introducion/introduccion-html.md)
+* [HTML Basico](https://github.com/danipv54/HTML-Dominicana/blob/master/basico-html/Basico-html.md)
 * [HTML Media]() `Proximamente`
 * [HTML Graphics]() `Proximamente`
 * [HTML APIs]() `Proximamente`
