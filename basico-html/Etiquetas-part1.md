@@ -86,7 +86,7 @@ Aprender html desde cero
 
 
 
-
+* [Etiquetas parte 2](https://github.com/danipv54/HTML-Dominicana/blob/master/basico-html/Etiquetas-part2.md)`CLick en el enlace`
 
 
 
