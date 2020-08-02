@@ -50,8 +50,8 @@ Aprender html desde cero
 * `<q>`:Define una cita corta
 
 
-### Veremos más luego
-
+### Etiquetas Nuevas  🖇️
+* [Click aquí](https://github.com/danipv54/HTML-Dominicana/blob/master/basico-html/Etiquetas-part3.md)
 
 ### Etiquetas anteriores  🖇️
 
