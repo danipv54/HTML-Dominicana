@@ -12,7 +12,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-*Tener ganas de aprender en el mundo de la web
+* Tener ganas de aprender en el mundo de la web
 * Ayudar a los demas
 * Marcar como favorito
 * Compatir con los demás
